@@ -1,0 +1,73 @@
+/**style for  tiles**/
+
+/*************tiles*************/
+
+.content .tiles{
+	height: 450px;
+	margin: auto;
+	width: 60%;
+	padding-top: 30px;
+}
+
+.content .tiles .mainTile{
+	display: inline-block;
+	margin-bottom: 4px;
+	margin-right: 1px;
+	border: 4px double grey;	
+	width: 30%;
+	height: 25%;
+	max-width: 100%;
+	background-size: 100% 100%;
+	border-radius: 10px;
+}
+
+.content .tiles .mainTile#project1 {
+	background-image: url(../images/yoshi1.jpg);   
+	}
+
+.content .tiles .mainTile#project2{
+	background-image: url(../images/yoshi2.jpg);   
+}
+
+
+.content .tiles .mainTile#project3{
+	background-image: url(../images/yoshi3.jpg);   
+}
+
+
+.content .tiles .mainTile#project4{
+	background-image: url(../images/yoshi4.jpg);   
+}
+
+.content .tiles .mainTile#project5{
+	background-image: url(../images/yoshi5.jpg);   
+}
+
+
+.content .tiles .mainTile#project6{
+	background-image: url(../images/yoshi1.jpg);   
+}
+
+
+.content .tiles .mainTile#project7{
+	background-image: url(../images/yoshi2.jpg);   
+}
+
+
+.content .tiles .mainTile#project8{
+	background-image: url(../images/yoshi3.jpg);   
+}
+
+.content .tiles .mainTile#project9{
+	background-image: url(../images/yoshi4.jpg);   
+}
+
+
+
+/*
+	width: -webkit-fit-content;
+	width: -moz-fit-content;
+	width: fit-content;
+*/
+
+

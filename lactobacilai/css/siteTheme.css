@@ -1,0 +1,83 @@
+/**style for site main theme**/
+
+
+body{
+/*	border: 1px solid powderblue;	 */
+	background-color: #f5f0f0;
+}
+
+.mainContainer{
+/*	border: 1px solid pink;	 */
+}
+
+
+/*************topNav*************/
+.topNav{
+/*	border: 1px solid orange;	 */
+}
+
+.topNav #header{
+	border-bottom: 3px double gray;	
+}
+
+.topNav .mainNav{
+	margin: auto;
+	width: 70%; 
+}
+
+.topNav .mainNav ul{
+	list-style-type: none;
+	padding: 0px;
+	margin: 20px 0px 0px 0px;
+}
+
+.topNav .mainNav li{
+	display: inline-block;
+}
+
+
+
+
+/*************content*************/
+.content{
+/*	border: 1px solid green;	 */
+	height: 450px;
+	border-bottom: 3px double gray;	
+	overflow-y: auto;
+}
+
+
+
+
+/*************bottomNav*************/
+.bottomNav{
+}
+
+.bottomNav .footer{
+	margin: auto;
+	width: 50%; 
+/*	border: 1px solid powderblue;	 */
+}
+
+.bottomNav .footer ul{
+	list-style-type: none;
+	padding: 0px;
+	margin: 20px 0px 0px 0px;
+}
+
+.bottomNav .footer li{
+	display: inline-block;
+}
+
+/*
+	width: -webkit-fit-content;
+	width: -moz-fit-content;
+	width: fit-content;
+*/
+
+
+
+
+
+
+

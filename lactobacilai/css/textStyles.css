@@ -1,0 +1,29 @@
+/***text and fonts related css***/
+body {
+	font-family: "Consolas", "Courier New", "Times New Roman", Times, serif;
+}
+
+/*************topNav*************/
+.topNav #header{
+	color: #3b3b5e;
+	font-size: 60px;
+	font-weight: medium;
+}
+
+.topNav .mainNav li{
+	color: gray;
+	font-size: 20px;
+	
+}
+
+
+/*************bottomNav*************/
+.bottomNav .footer{
+	text-align: center;	
+}
+
+.bottomNav .footer li{
+	color: #3b3b5e;
+	font-weight: medium;
+}
+
